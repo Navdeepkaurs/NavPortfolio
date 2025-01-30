@@ -14,7 +14,13 @@ An interactive and eye-catching portfolio built with **HTML, CSS, JS, GSAP, Swip
 - **HTML, CSS, JavaScript**  
 - **GSAP for animations**  
 - **Swiper.js for smooth carousels**  
-- **CSS animations for extra flair**  
+- **CSS animations for extra flair**
+
+## 🤝 Connect with Me
+
+Let’s talk design, frontend, or just say hi!
+📧 Email: navdeepkaursodhi2004@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/navdeep-kaur0409
 
 ## 🚀 Run Locally  
 ```bash
@@ -23,8 +29,3 @@ cd portfolio
 open index.html
 
 
-## 🤝 Connect with Me
-
-Let’s talk design, frontend, or just say hi!
-📧 Email: navdeepkaursodhi2004@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/navdeep-kaur0409
