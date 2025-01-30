@@ -1,6 +1,4 @@
 
-
-
 function downloadCV() {
     const link = document.createElement('a');
     link.href = './media/cv.pdf';
