@@ -1,9 +1,5 @@
-//Smooth scroll!
 
-const scroll = new LocomotiveScroll({
-    el: document.querySelector('#main'),
-    smooth: true
-});
+
 
 function downloadCV() {
     const link = document.createElement('a');
