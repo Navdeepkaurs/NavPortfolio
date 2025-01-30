@@ -1,29 +1,29 @@
-# Code & Aesthetics – My Portfolio
+# 🚀 Code & Aesthetics – My Portfolio  
 
-An interactive and eye-catching portfolio built with HTML, CSS, JS, GSAP, Swiper, and CSS animations!
+An interactive and eye-catching portfolio built with **HTML, CSS, JS, GSAP, Swiper, and CSS animations!**  
 
-🌐 Live Demo: nav-portfolio-ivory.vercel.app (Best viewed on a laptop! 💻)
+🌐 **Live Demo**: [nav-portfolio-ivory.vercel.app](https://nav-portfolio-ivory.vercel.app) *(Best viewed on a laptop! 💻)*  
 
-✨ Features
+## ✨ Features  
+- 🎨 **Sleek UI/UX** – A visually appealing interface  
+- 🎭 **Smooth Animations** – GSAP-powered transitions  
+- 📱 **Swiper.js Integration** – Seamless sliding effects  
+- ⚡ **Fast & Responsive** – Optimized for a smooth experience  
 
-🎨 Sleek UI/UX – A visually appealing interface
-🎭 Smooth Animations – GSAP-powered transitions
-📱 Swiper.js Integration – Seamless sliding effects
-⚡ Fast & Responsive – Optimized for a smooth experience
+## 💡 Tech Stack  
+- **HTML, CSS, JavaScript**  
+- **GSAP for animations**  
+- **Swiper.js for smooth carousels**  
+- **CSS animations for extra flair**  
 
-💡 Tech Stack
-	•	HTML, CSS, JavaScript
-	•	GSAP for animations
-	•	Swiper.js for smooth carousels
-	•	CSS animations for extra flair
-
-🚀 Run Locally
-
+## 🚀 Run Locally  
+```bash
 git clone https://github.com/yourusername/portfolio
 cd portfolio
 open index.html
 
-🤝 Connect with Me
+
+## 🤝 Connect with Me
 
 Let’s talk design, frontend, or just say hi!
 📧 Email: navdeepkaursodhi2004@gmail.com
